@@ -1,5 +1,5 @@
  {
-"package" : "pfbalancecheck.epfbalance.employee",
+"package" : "epfbalancecheck.epfbalance.employee",
 "facebook_banner_ad_id": [
       ""
 ],
